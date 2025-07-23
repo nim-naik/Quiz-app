@@ -1,6 +1,6 @@
 ---
 
-# ❓ Quiz App – Web Development Edition
+# ❓ Quiz App 
 
 This is a **fun and interactive quiz application** built using **HTML**, **CSS**, and **JavaScript**. It challenges users on their knowledge of web development concepts like HTML, CSS, PHP, SQL, and more — all with a slick interface and timer-based gameplay.
 
